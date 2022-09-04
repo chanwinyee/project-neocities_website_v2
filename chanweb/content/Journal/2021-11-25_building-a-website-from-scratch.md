@@ -7,7 +7,10 @@ Slug: building-a-website-from-scratch
 Authors: chanwinyee
 Summary: My first website since the 90's. Welcome! 
 
- <iframe src="{static}sounds/20211125-building_a_website_from_scratch.wav" width="100%" height="50" ></iframe>
+<audio controls onContextMenu="return false;">
+<source src="{static}sounds/20211125-building_a_website_from_scratch.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
 
 Dear Reader,
 

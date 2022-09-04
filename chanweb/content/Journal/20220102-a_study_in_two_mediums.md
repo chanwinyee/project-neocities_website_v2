@@ -8,7 +8,12 @@ Authors: chanwinyee
 Summary: Going retro with some watercolour how-to's.
 Gallery: {photo}/j-20211125/
 
- <iframe src="{static}sounds/20220102-a_study_in_two_mediums.wav" width="100%" height="50" ></iframe>
+
+
+<audio controls onContextMenu="return false;">
+<source src="{static}sounds/20220102-a_study_in_two_mediums.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
 
 A Study in Two Mediums - my exploration of water colour
 
