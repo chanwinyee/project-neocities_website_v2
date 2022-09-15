@@ -2,8 +2,8 @@ AUTHOR = 'Winyee'
 SITENAME = 'Winyee Art Page'
 SITEURL = ''
 
-PATH = 'content'
-# STATIC_PATHS=['sounds']
+PATH = './content/'
+# STATIC_PATHS=['photos']
 PLUGINS=['pelican.plugins.photos']
 
 TIMEZONE = 'America/Los_Angeles'
@@ -19,7 +19,8 @@ AUTHOR_FEED_RSS = None
 
 # PHOTO SETTINGS
 # Base settings where to find the galleries with images
-PHOTO_LIBRARY="content/images/"
+PHOTO_LIBRARY="~/Documents/TECHNICAL/project-neocities_website_v2/chanweb/content/images/"
+# PHOTO_ARTICLE="./content/images/"
 PHOTO_RESIZE_JOBS = -1
 PHOTO_INLINE_GALLERY_ENABLED = True
 # We use the default settings here
@@ -31,8 +32,6 @@ PHOTO_INLINE_GALLERY_TEMPLATE = "inline_gallery"
 
 PHOTO_INLINE_GALLERY_ENABLED = True 
 PHOTO_INLINE_GALLERY_PATTERN = 'gallery_name'
-
-
 
 # Blogroll
 # LINKS = (('Pelican', 'https://getpelican.com/'),)

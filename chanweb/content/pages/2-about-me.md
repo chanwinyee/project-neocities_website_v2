@@ -1,37 +1,54 @@
 Title: About Me
-Date: 2022-09-03 10:00
-Modified: 2022-09-03 10:14
+Date: 2022-09-14 06:54
+Modified: 2022-09-15 07:11
 Category: pages
-Tags: about-me
+Tags: pages, about-me
 Slug: about-me
 Authors: chanwinyee
-Summary: A little bit about the webmaster
+Summary: Long form of who I am and where I came from.
 
-***
+Thanks for dropping into my website! I'm Liz (aka. Chanwinyee, aka winyee.) 
 
-[Instagram](https://www.instagram.com/winyee.art/) * [LinkedIn](https://www.linkedin.com/in/chanwinyee/)
+First and foremost, I am an introvert (INF-J) and a hobbyist.
 
-# OVERVIEW
+Second, Î am an artist.
 
-First and foremost, I am a hobbyist and an introvert (INFJ-T). Second, I am an artist. Third, I am an athlete. And, finally, I am a self-taught data analyst/data engineer. 
+Third, I am a Data Engineer who specializes in HR data.
 
-As a naturally curious person who is motivated by achieving new skills, I find it difficult to describe my journey succintly. Since I was able to hold a new tool, I would ask my mom and dad (pre-internet days) to teach me, help me, or dump me in library to learn. Obviously, these days, the internet has really opened up all the possibilities to feed my voracious mind. 
+# Genesis Story
 
-While as a young person I may have leaned away from claiming "competence" over these "just hobbies". As an adult, however, I realize now there is a liberation to be had in just simply enjoying a project for all it offers me at any point in my experience. Perfect or not, I know the finished product will at a minimum be an informative exercise and at most, be a testament to the fruits of dancing at the growing edge of the learning curve. 
+So, why do I open by stating my introversion? Because, since I realized and fully embraced this part of my personality in my late 20's, I have liberated my confidence! So, yes, I am introverted, extremely authentic, and here to share out some of the little things that give me joy.
 
-As of today, my breadth includes:
-**Art**: Oil paint, Watercolour, Urban Sketch, Illustration, Sewing, and Embroidery
-**Music**: Piano, Flute, Guitar
-**Food**: Breads and baking, Chinese home cooking
-**Languages**: English, French, Cantonese
-**Sports**: Running, Cycling, Ballet
-**Technology**: Arduino, SQL, Python, Excel
+My childhood was a pretty sheltered one being much younger than my sisters and with strict parents. That means that I spent a *lot* of time indoors, by myself, with mostly my imagination and creativity to pass the time. It's from there that the foundation for my obsession with little projects began.
 
+# Hobbies, Projects, Interests
 
-# ART
+Anything that is not visual art, I qualify as a hobby for no other reason than as a testament to the truly random nature of these projects and interests. Below is a list of examples, and it is definitely growing:
 
-[UNDER CONSTRUCTION] 
+Piano, flute, guitar, website building, knitting, crocheting, sewing, gardening, running, cycling, yoga, ballet, Dungeons and Dragons, hiking, camping, Boggle, reading, embroidery, clarinet, ukulele, Arduino, hacking, retro-technology, baking, cooking, self-improvement, reading, COFFEE, crafting, gaming, writing, bullet journaling, ...
 
-# CAREER
+# Art Things
 
-[UNDER CONSTRUCTION]
+So, I did not include ART as a hobby, because it is a category all on its own. 
+
+*Making art* is one part of this interest and learning/talking about *art history* is the other part. 
+
+As a kid, I shed away from taking an art class because I thought "art critiques" were a place where you are berated by your peers. (Yes, I know that's totally wrong.) But either way, this meant that I self-taught all I know about art using [Creative Bug](LINK), books I've collected over the years, and some classes offered by my community college. 
+
+Generally, I'm multi-disciplinary, but my mediums tend to lean towards *oil painting, pencil and illustration, and water colour.* 
+
+Having said that, I am always open to exploring.
+
+# Data Engineering, HR/People
+
+I have a liberal arts degree and I mostly worked in operations either as a coordinator, project manager, or analyst. 
+
+Only recently have I been able to call myself a professional (self-taught) Data Engineer. 
+
+At the heart of all this is my obsession with process, order, and internal organizational efficiency. 
+
+I know that regardless of what I do, I will always want to support internal tools and operations. In my opinion, it is highly rewarding to personally know my users and customers and to feel confident that each change I make is helping someone I can picture improve their work experience.
+
+# Thanks!
+
+Finally, I am grateful. Thank *you* for dropping in, learning a bit about me, and seeing some of my amateur projects.  
