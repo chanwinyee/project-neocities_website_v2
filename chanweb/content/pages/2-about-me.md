@@ -33,7 +33,7 @@ So, I did not include ART as a hobby, because it is a category all on its own.
 
 *Making art* is one part of this interest and learning/talking about *art history* is the other part. 
 
-As a kid, I shed away from taking an art class because I thought "art critiques" were a place where you are berated by your peers. (Yes, I know that's totally wrong.) But either way, this meant that I self-taught all I know about art using [Creative Bug](LINK), books I've collected over the years, and some classes offered by my community college. 
+As a kid, I shed away from taking an art class because I thought "art critiques" were a place where you are berated by your peers. (Yes, I know that's totally wrong.) But either way, this meant that I self-taught all I know about art using [Creative Bug](https://www.creativebug.com), books I've collected over the years, and some classes offered by my community college. 
 
 Generally, I'm multi-disciplinary, but my mediums tend to lean towards *oil painting, pencil and illustration, and water colour.* 
 
