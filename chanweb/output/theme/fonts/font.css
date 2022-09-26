@@ -1,12 +1,24 @@
 @font-face {
-	font-family: 'Yanone Kaffeesatz';
-	font-style: normal;
-	font-weight: 400;
-	src:
-		local('Yanone Kaffeesatz Regular'),
-		local('YanoneKaffeesatz-Regular'),
-		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/YDAoLskQQ5MOAgvHUQCcLRTHiN2BPBirwIkMLKUspj4.woff */
-		url('Yanone_Kaffeesatz_400.woff') format('woff'),
-		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/YDAoLskQQ5MOAgvHUQCcLfGwxTS8d1Q9KiDNCMKLFUM.woff2 */
-		url('Yanone_Kaffeesatz_400.woff2') format('woff2');
+    font-family: 'LcHandwriting202204-Regular';
+    src: url('LcHandwriting202204-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'RobotoMono';
+    src: url('RobotoMono-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Snippet-regular';
+    src: url('Snippet-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Laila-Regular';
+    src: url('Laila-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'VT323-Regular';
+    src: url('VT323-Regular.ttf');
 }
