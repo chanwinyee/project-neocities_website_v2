@@ -14,5 +14,3 @@ Summary: How to get in touch
 *Instagram*: [@winyee.art](https://www.instagram.com/winyee.art/)
 
 *Twitter*: [@chanwinyeemakes](https://www.twitter.com/chanwinyeemakes/)
-
-*Email*: [chanwiny.art@gmail.com](mailto:chanwiny.art@gmail.com)
