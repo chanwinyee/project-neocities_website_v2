@@ -11,7 +11,7 @@ Thanks for dropping into my website! I'm Liz (aka. Chanwinyee, aka winyee.)
 
 First and foremost, I am an introvert (INF-J) and a hobbyist.
 
-Second, Î am an artist.
+Second, I am an artist.
 
 Third, I am a Data Engineer who specializes in HR data.
 
@@ -21,13 +21,14 @@ So, why do I open by stating my introversion? Because, since I realized and full
 
 My childhood was a pretty sheltered one being much younger than my sisters and with strict parents. That means that I spent a *lot* of time indoors, by myself, with mostly my imagination and creativity to pass the time. It's from there that the foundation for my obsession with little projects began.
 
-# Hobbies, Projects, Interests
+
+# <img src="{static}/images/graphics/repo-crop.png" style="height:150px"> **Hobbies, Projects, Interests**
 
 Anything that is not visual art, I qualify as a hobby for no other reason than as a testament to the truly random nature of these projects and interests. Below is a list of examples, and it is definitely growing:
 
 Piano, flute, guitar, website building, knitting, crocheting, sewing, gardening, running, cycling, yoga, ballet, Dungeons and Dragons, hiking, camping, Boggle, reading, embroidery, clarinet, ukulele, Arduino, hacking, retro-technology, baking, cooking, self-improvement, reading, COFFEE, crafting, gaming, writing, bullet journaling, ...
 
-# Art Things
+# <img src="{static}/images/graphics/Hobbyist-crop.png" style="height:150px"> Art Things
 
 So, I did not include ART as a hobby, because it is a category all on its own. 
 
@@ -39,7 +40,7 @@ Generally, I'm multi-disciplinary, but my mediums tend to lean towards *oil pain
 
 Having said that, I am always open to exploring.
 
-# Data Engineering, HR/People
+# <img src="{static}/images/graphics/engineer-crop.jpg" style="height:150px"> Data Engineering, HR/People
 
 I have a liberal arts degree and I mostly worked in operations either as a coordinator, project manager, or analyst. 
 
