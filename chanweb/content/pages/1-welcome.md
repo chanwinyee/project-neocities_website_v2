@@ -11,7 +11,7 @@ Status: hidden
 <center><img src="{static}/images/graphics/repo-crop.png" style="height:200px"> </center>
 # Welcome to my personal and creative repository!
 
-- I am a **relentless hobbyist** most of the time and the rest of the time
+- I am a **relentless hobbyist** most of the time
 - I am a cat-mom
 - I am a loving partner
 
