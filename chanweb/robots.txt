@@ -15,12 +15,11 @@ User-agent: Zao
 Disallow: /
 
 # Used for AI models
-User-agend: ChatGPT-User
+User-agent: ChatGPT-User
 Disallow: /
 
 User-agent: CCBot
 Disallow: /
-<meta name="CCBot" content="nofollow">
 
 # advertising bots
 User-agent: AdsBot-Google
