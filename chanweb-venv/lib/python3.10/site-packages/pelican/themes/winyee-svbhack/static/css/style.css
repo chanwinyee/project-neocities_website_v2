@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #9999bb;
+  background-color: #c9ddf5;
   color: #000000;
   font-family: 'Snippet-regular', sans-serif;
   font-size: 18px;
@@ -52,7 +52,7 @@ aside div#user_meta ul li {
 }
 aside div#user_meta ul li a {
   padding: 5px 15px 5px 15px;
-  color: #9999bb;
+  color: #c9ddf5;
 }
 main header {
   padding: 40px;

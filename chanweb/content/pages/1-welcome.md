@@ -17,7 +17,4 @@ Status: hidden
 
 *Best of all, I am based out of beautiful Berkeley, CA.*
 
-Here you will find a collection of my [writings](https://chanwinyee.neocities.org/category/journal.html), my [art](https://chanwinyee.neocities.org/pages/artwork.html), and some of my [projects](https://chanwinyee.neocities.org/category/sketchbook.html). 
-
-
-<center><img src="{static}/images/graphics/Cat-Mom-crop.jpg" style="height:150px">    <img src="{static}/images/graphics/Partner-crop.jpg" style="height:150px"></center>
+Here you will find a collection of my [thoughts](https://chanwinyee.neocities.org/category/journal.html), my [art](https://chanwinyee.neocities.org/pages/artwork.html), and some of my [works-in-progress](https://chanwinyee.neocities.org/category/sketchbook.html). 

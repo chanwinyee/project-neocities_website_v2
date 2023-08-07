@@ -13,7 +13,7 @@ First and foremost, I am an introvert (INF-J) and a hobbyist.
 
 Second, I am an artist.
 
-Third, I am a Data Engineer who specializes in HR data.
+Third, I am a Data Engineer.
 
 # Genesis Story
 
@@ -40,16 +40,22 @@ Generally, I'm multi-disciplinary, but my mediums tend to lean towards *oil pain
 
 Having said that, I am always open to exploring.
 
-# <img src="{static}/images/graphics/engineer-crop.jpg" style="height:150px"> Data Engineering, HR/People
+# <img src="{static}/images/graphics/engineer-crop.jpg" style="height:150px"> Data Engineering
 
 I have a liberal arts degree and I mostly worked in operations either as a coordinator, project manager, or analyst. 
 
-Only recently have I been able to call myself a professional (self-taught) Data Engineer. 
+Only recently have I been able to call myself a professional (self-taught) Data Engineer. I applied my query-language knowledge and a strict study schedule to acquire the required Python skillset.
 
-At the heart of all this is my obsession with process, order, and internal organizational efficiency. 
+If you're interested in learning more, email me or check out these resources to start:
 
-I know that regardless of what I do, I will always want to support internal tools and operations. In my opinion, it is highly rewarding to personally know my users and customers and to feel confident that each change I make is helping someone I can picture improve their work experience.
+- <a href="https://docs.google.com/document/d/178_iYoByP8EPwmccpEoYohAQSfpDNdsAyH22KCCxYYg/edit?usp=sharing">How to create a Study Schedule</a>
+
+- <a href="https://nostarch.com/inventwithpython">Invent Your Own Computer Games with Python, 4th Edition (No Starch)</a>
+
+- <a href="https://codingbat.com/python">Coding Bat Practice Questions</a>
+
+At the heart of all this is my obsession with process, order, and the confidence that numbers bring. Knowing this about myself has helped me navigate my career and will hopefully carry me through if and when new opportunities come up. 
 
 # Thanks!
 
-Finally, I am grateful. Thank *you* for dropping in, learning a bit about me, and seeing some of my amateur projects.  
+Finally, I am grateful. Thank *you* for dropping in, learning a bit about me, and seeing some of my projects.  
