@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- ## for client-side less
+  <link rel="stylesheet/less" type="text/css" href="/theme/css/style.less">
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/less.js/1.7.3/less.min.js" type="text/javascript"></script>
+  -->
+  <link rel="stylesheet" type="text/css" href="/theme/css/style.css">
+  <link rel="stylesheet" type="text/css" href="/theme/css/pygments.css">
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=PT+Sans|PT+Serif|PT+Mono">
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Winyee">
+  <meta name="description" content="Posts and writings by Winyee">
+
+
+
+  <title>
+    Winyee Art Page
+  </title>
+
+</head>
+
+<body>
+  <aside>
+    <div id="user_meta">
+      <a href="/pages/welcome.html">
+        <img src="/theme/images/Kiki_Sandwich_crop.png" alt="logo">
+      </a>
+      <h2><a href="/pages/welcome.html">Winyee Art Page</a></h2>
+      <p></p>
+      <ul>
+        <li><a href="/category/sketchbook.html">sketchbook</a></li>
+        <li><a href="/category/journal.html">Journal</a></li>
+        <li><a href="/category/changelog.html">Changelog</a></li>
+        <li><a href="/category/archived-projects.html">Archived Projects</a></li>
+        --------------------------------
+        <li><a href="/pages/artwork.html">Artwork</a></li>
+        <li><a href="/pages/about-me.html">About Me</a></li>
+        <li><a href="/pages/contact-me.html">Contact Me</a></li>
+      </ul>
+    </div>
+  </aside>
+
+  <main>
+    <header>
+      <p>
+      <a href="">Index</a> &brvbar; <a href="/archives.html">Archives</a>
+      </p>
+    </header>
+
+<article>
+  <div class="article_title">
+    <h1><a href="/category/journal.html">Journal</a></h1>
+  </div>
+  
+</article>
+<hr />
+
+<article>
+  <div class="article_title">
+    <h2><a href="/building-study-schedule.html">Building a Study Schedule</a></h2>
+  </div>
+  <div class="article_meta">
+    <p>Posted on: Fri 11 August 2023</p>
+  </div>
+  <div class="article_text">
+    <p>How to use the power of gSheet to make a semi-automated reading schedule.</p>
+    <p>When working from books to learn something new, I know that the author has a learning plan set which is commonly found in the introduction or an "About this Book" section. The issue for self-guided learning is understanding how that book's structure fits into my current ability to read/concentrate on this topic week-on-week. </p>
+<p><strong>The goal of this article is to break down book-guided learning into consumable pieces using Google Sheets and a bit of automation.</strong></p>
+<p>By breaking down books into pieces that both follow the author's intended learning structure and respect my personal constraints, I am set up for continuous forward motion on multiple pursuits. Sure, progress at times may feel slow, but forward motion is always a positive gain. </p>
+<p>Some of the constraints I deal with are - time, attention span, and fear of that "stuck" feeling where I am just not progressing on my project aspirations. (More constraints are best explained in my <a href="https://docs.google.com/document/d/178_iYoByP8EPwmccpEoYohAQSfpDNdsAyH22KCCxYYg/edit?usp=sharing">Learn to Study Guide</a>.)</p>
+<p>To respect these constraints, I designed a reading schedule that:
+- Sets weekly reading assignments (not monthly or daily)
+- Alerts me when the study load is going beyond my upper bound or is highly optimistic during times of ... you know... life.</p>
+<p>So, how can I make something that gives me this information? Google Sheets! </p>
+<p>When I first set up this spreadsheet (V1 and V2), it was painstakingly manual and, worse, it was inflexible. I had the most friction with:</p>
+<ul>
+<li>Getting week start dates (other than looking at a calendar)</li>
+<li>Manually entering start and finish reading position for each chapter (even with some clunky formulas)</li>
+<li>Re-working the entire manual process when I needed to make customizations</li>
+<li>New years, new books required a repeat of this slow-and-painful data entry process making me question my goals in life</li>
+</ul>
+<p>After 2-3 years of tinkering, I landed on a data model-inspired ecosystem and used the power of sheet =QUERY() and data validation to semi-automate this process.</p>
+<p><img src="/images/inline/20230811-datamodel_reading_schedule.jpg"></p>
+<p>Key features:</p>
+<ul>
+<li>Easily pick any book from desired interests with a one-time set up</li>
+<li>Drop down menus to assign chapters with automated population of chapter attributes (such as start, end pages)</li>
+<li>Drop down book selection</li>
+<li>Week of Year (WoY) implementation to simplify week-start date settings</li>
+</ul>
+<p>At a high-level, set up for this type of study guide schedule is quite simple and does not require an advance degree in excel. </p>
+<p>Skills required:</p>
+<ul>
+<li>=CONCAT()</li>
+<li>=VLOOKUP()</li>
+<li>=QUERY()</li>
+<li>Data Entry and patience (but only one time per book!)</li>
+</ul>
+<p>Steps:</p>
+<ol>
+<li>Set up a dates sheet that has the columns: nixes, week of year, dates, day of week</li>
+<li>Set up book details with columns: index, title, chapter, start, finish, total pages, ...</li>
+<li>Use VLOOKUP to reference dates based on dates.index = CONCAT(week of year, date, day of week)</li>
+<li>Set data validation (which automatically filters to distinct values in a column) for Book Title (row 1:1), Chapter, etc.</li>
+<li>Use =QUERY() on schedule sheet some rows down to pull in the chapter and pages columns.</li>
+<li>Set data validation on the schedule sheet for chapter names in the main schedule section.</li>
+<li>Use VLOOKUP to reference book and chapter to get start-finish attributes.</li>
+</ol>
+<p>If you are planning to make this schedule and have questions or want templates, DM me! I am more than happy to assist. :) Good luck!</p>
+  </div>
+
+
+  <div class="gallery">
+        <h1></h1>
+              <a href="/photos/j-20230811/study_guide_v1.jpg" title="study_guide_v1.png" exif="" caption=""><img src="/photos/j-20230811/study_guide_v1t.jpg"></a>
+              <a href="/photos/j-20230811/study_guide_v2.jpg" title="study_guide_v2.png" exif="" caption=""><img src="/photos/j-20230811/study_guide_v2t.jpg"></a>
+              <a href="/photos/j-20230811/study_guide_v3.jpg" title="study_guide_v3.png" exif="" caption=""><img src="/photos/j-20230811/study_guide_v3t.jpg"></a>
+  </div>
+
+</article>
+<hr />
+<article>
+  <div class="article_title">
+    <h2><a href="/social-media-detox.html">Social Media, Social Media DETOX, living with the internet</a></h2>
+  </div>
+  <div class="article_meta">
+    <p>Posted on: Sat 10 September 2022</p>
+  </div>
+  <div class="article_text">
+    <p>Learning to live without the social media, then easing back in.</p>
+    <p>For the past 2-3 months, I have been without Instagram, Twitter, and Facebook. This is not a personal vendetta against social media. It is simply a step away from the forces that seem to have a somewhat unreasonable hold over my free time.</p>
+<p>I personally do not have a strong opinion about Social Media as some do. I just recognize that it has a lot of issues that give me pause.</p>
+<ol>
+<li>It is addictive.</li>
+<li>Social Media can make or break self-validation in the creative world.</li>
+<li>Comparison is the enemy of joy and so is its conduit.</li>
+<li>It can foster inauthentic or parasympathetic relationships and give the illusion of community where none exists.</li>
+</ol>
+<p>I was not burned by SM, I simply wanted to do more with my free time and pump my calendar with intentional minutes. But now, after some space, I feel I have a use for SM as a <em>tool</em> rather than entertainment. This can either be a gateway to SM-Hell or the beginnings of a healthy relationship to SM.</p>
+<p>What comes to mind is the question of whether it is even reasonable to strive to be an internet hermit.</p>
+<p>I am an office-job worker. This means that my entire job is on the Internet. So internet hermitage is impossible 20-25 hours per week. Discounting sleeping hours (56 hours per week), that means ~85 hours a week can potentially be "free" of the internet. But, then, how do I optimize these precious 85 hours peppered throughout the week? <em>I use the internet to search things!</em> </p>
+<p>So the question becomes - who is the enemy? Is it the internet and all its temptations? Does it even matter?</p>
+<p>What I am trying to get at is the fact that the environment has changed. I cannot continue the pattern of blaming every innovation for succumbing to the greedy manipulations of corporations. That is literally always going to happen. It is up to the power of my mind to know when to step back and when to wade in the waters of the ocean. </p>
+<p>All of this was to set the stage. I am mindfully engaging with SM by splitting my intentions into different accounts.</p>
+<h2>My personal accounts</h2>
+<ul>
+<li>I have a personal Twitter. This only has bi-directional relationships with people that I still talk to or would stop in the street to chat with for a few minutes if the chance ever came up.</li>
+<li>I have a public Twitter. This is <a href="https://twitter.com/chanwinyeemakes">@chanwinyeemakes</a>. The goal of this account is to share the process of my work - thoughts and photos together. While I do enjoy watching a good Instagram story, the pressure to perform on that platform is too high. There's a lot more mental work that a photo or a marginally acceptable IG Story can capture. Short form blog is the best route for me.</li>
+<li>Speaking of Instagram, I have a private account that I really don't use. The platform has become too advertisement-heavy (via influencers and rising influencers-to-be) that I am coming to terms with the notion that IG is not a place where I have authentic interactions with my peers, family, and friends.</li>
+<li>I have a public Instagram - <a href="http://instagram.com/winyee.art/">@winyee.art</a>. This will eventually become my portfolio. Simple as that.</li>
+</ul>
+<p>By dividing my interfaces in such a way, I can make sure I am in a healthy state of mind. I can also practice varying types of openness depending on the platform and break through my internet shy-ness. Eventually, my interaction with SM will hopefully start becoming a two-way conversation.</p>
+<p>Social Media, like the internet itself, is just a tool and it's here to stay. While outright rejection may be the first defensive response to its alluring power, coexistence or even mastery may be the best long-term approach.</p>
+  </div>
+
+
+
+</article>
+<hr />
+<article>
+  <div class="article_title">
+    <h2><a href="/freewrite-thoughts-pt-2.html">Freewrite Thoughts Pt. 2: The Retro-tech Version</a></h2>
+  </div>
+  <div class="article_meta">
+    <p>Posted on: Sat 10 September 2022</p>
+  </div>
+  <div class="article_text">
+    <p>The next step for my obsession with Astrohaus's Freewrite and not buying it.</p>
+    <p>After months of agonizing over my option to purchase the $700 Freewrite, I finally pulled the plug on that dream. Here I am, writing on the original version of this analogue crafting concept - the Alphasmart NEO. </p>
+<p>You can probably search the internet for this device and find a lot of articles written by professional bloggers praising the device for its simplicity. Interestingly, I can't help but sense that this the novelty of writing on the low-tech device forces the function of mindfulness. So, yes, you're goin to find a lot of articles that are mindfully written explaining the sensation of not have wi-fi or color to meet a writing deadline. I dig it.</p>
+<p>A few weeks ago, I got a pre-release email for the <a href="https://alphasmart.com/reveal/">alpha by Freewrite</a>. Like many others of this extremely niche market, I was astounded by the similarity to the Aphasmart NEO (and similar products.) </p>
+<p>The main difference between the devices is that the NEO (on eBay) was $50, two times the cost it was 30 years ago; and the ALPHA is going to go for $349. Sure, the ALPHA has a modern design-ish, but the bottom line is - for someone with as fragmented a history of blogging as I, the cheaper option may be a better test of intention and worthiness.</p>
+<p>I tweeted about my writing upgrade <a href="https://twitter.com/ChanwinyeeMakes/status/1568763994416246784">here</a>. Check it out in action!</p>
+  </div>
+
+
+  <div class="gallery">
+        <h1></h1>
+              <a href="/photos/j-20220910/alphasmartneo.jpg" title="alphasmartneo.jpg" exif="" caption=""><img src="/photos/j-20220910/alphasmartneot.jpg"></a>
+              <a href="/photos/j-20220910/freewrite_alpha.jpg" title="freewrite_alpha.jpg" exif="" caption=""><img src="/photos/j-20220910/freewrite_alphat.jpg"></a>
+  </div>
+
+</article>
+<hr />
+<article>
+  <div class="article_title">
+    <h2><a href="/sf-zinefest-2022.html">San Francisco ZineFest 2022</a></h2>
+  </div>
+  <div class="article_meta">
+    <p>Posted on: Mon 05 September 2022</p>
+  </div>
+  <div class="article_text">
+    <p>Checking out the local zine artists and meeting a celebrity!</p>
+    <p>This weekend, I ventured to San Francisco to attend the SF Zinefest. It is there that I experienced my first celebrity siting and made a blubbering fool of myself. </p>
+<p>Have you ever heard of SailorHG? ComputeCuter? Well, let me tell you all the things I wanted to say, and in so doing, you will understand the gravity of this encounter.</p>
+<p>I am quite a fan of SailorHG. I instantly felt connected to her art content, as I am sure many have, due to our mutual love of Naoko Takeuchi’s series Sailor Moon, and in effect, the need to be surrounded by cute pastel things. As for Sailor Moon characters, it was the brainy one - Ami Chiu/Sailor Mercury - who caught my eye. Maybe it was because of her introversion or the fact that she was a technologist and could maneuver scenarios with Spock-like logic. Either way, I felt seen by her character, and similarly felt seen by sailorhg's kawaii-style techno-art.</p>
+<p>After joining the tech world as a non-technical admin, I was reinforced with the idea that engineering is brutalist in style. Minimalism, mechanism, m-a-l-e, and most likely impossible for me to be a part of. </p>
+<p>Well, a couple years ago, the world went into a lockdown and I stopped going into the office. My interactions turned internet-ward and it was there that I stumbled upon computecuter.com. This static site is where I found my permission to be technical AND floral, pastel, and FEM-a-l-e. I started pushing my engineering boundaries and challenging my negative-self-talk. Eventually, I was embracing that being technical or engineering minded could be done in <em>my own style</em>.</p>
+<p>I wish I hadn't been so starstruck at the event, or I would have not been so nervous. I would eloquently let her know that she enabled me to pursue my dream career - that there is a place for someone like me in tech and in art.</p>
+<p>But of course, what happened was my brain went blank and I was sweating and shaking for 5 crazy minutes and then I had to decompress in the corner with my partner. :) </p>
+<p>At least I made it home with a zine and a cool shirt!</p>
+  </div>
+
+
+  <div class="gallery">
+        <h1></h1>
+              <a href="/photos/j-20220905/hello-world-shirt.jpg" title="hello-world-shirt.jpg" exif="" caption=""><img src="/photos/j-20220905/hello-world-shirtt.jpg"></a>
+  </div>
+
+</article>
+<hr />
+<article>
+  <div class="article_title">
+    <h2><a href="/my-trip-to-hearst-castle.html">My Trip to Hearst Castle</a></h2>
+  </div>
+  <div class="article_meta">
+    <p>Posted on: Mon 13 June 2022</p>
+  </div>
+  <div class="article_text">
+    <p>A strange encounter at the hotel cafeteria.</p>
+    <p>I’m here at the cafeteria of the Hampton Inn. My phone went off at 6:30am, but I was already awake. The sun peeped through the windows with the vigour of a midday show.</p>
+<p>The plan today is to go to Hearst Castle. A 40 minute drive to the visitor center before the 30 minute winding road up to the property. I’m looking forward to the tour even if we’ve done it once before. My biggest concern is the heat and UV. Yesterday, at lunch, we ate outside and I was sunburned through my top. </p>
+<p>Here at the cafe, there is a family celebrating graduation (or similar.) They are a Texan family who boasted loudly of their gun collection and mentioned the mass shootings in the Bay Area - San Jose. The tone was relaxed; a sharp contrast to the low and muted murmur of a community shocked and saddened. “I have an AR-15,” drawled the new grad with a casual, if not praise-seeking voice. Her boy friend smartly replied with a glowing review of their recent shooting range date before sliding past the crowd to grab breakfast. The extended family glowed proudly, confident that the next generation will carry on the family tradition.</p>
+<p>As the boyfriend passed, we locked eyes. </p>
+<p>For a man coming from a culture that identifies himself as the norm and me, a Chinese woman, as “other”, I could not help but wonder what kind of mental math ran through his mind in that moment. 
+—————
+What a strange interaction. These interactions give me pause and a heightened sense of awareness.</p>
+  </div>
+
+
+
+</article>
+
+<footer>
+<div id="paginator">
+<a href="/category/journal2.html" class="button_accent">&larr; Older Posts</a>
+
+</div>
+</footer>
+
+    <div id="ending_message">
+      <p>&copy; Winyee. Built using <a href="http://getpelican.com" target="_blank">Pelican</a>. Modified <a href="https://github.com/gfidente/pelican-svbhack" target="_blank">pelican-svbhack</a> theme.</p>
+    </div>
+  </main>
+</body>
+</html>
