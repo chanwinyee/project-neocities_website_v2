@@ -2,7 +2,7 @@ Title: I'm burnt out...
 Date: 2021-06-10 10:00
 Modified: 2022-09-13 21:27
 Category: Journal
-Tags: journal, personal, meandering
+Tags: personal
 Slug: im-burnt-out
 Authors: chanwinyee
 Summary: My work-life balance is wayyyy out of balance.

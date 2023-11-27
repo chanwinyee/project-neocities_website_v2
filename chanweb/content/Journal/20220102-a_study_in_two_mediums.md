@@ -2,7 +2,7 @@ Title: A Study in Two Mediums
 Date: 2022-01-02 10:00
 Modified: 2022-01-02 10:14
 Category: Journal
-Tags: journal, novice-artist
+Tags: art, watercolour, oilpaint
 Slug: a_study_in_two_mediums
 Authors: chanwinyee
 Summary: Going retro with some watercolour how-to's.

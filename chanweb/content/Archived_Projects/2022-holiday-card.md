@@ -2,7 +2,7 @@ Title: * 🎄2022 Holiday Card🎄 *
 Date: 2022-12-05 07:07
 Modified: 2022-12-08 07:41
 Category: Archived Projects
-Tags: pages, photos, christmas
+Tags: personal, christmas_card 
 Slug: 2022-holiday-card
 Authors: chanwinyee
 Summary: A summary of 2022

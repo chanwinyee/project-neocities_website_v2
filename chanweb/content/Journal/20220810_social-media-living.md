@@ -2,7 +2,7 @@ Title: Social Media, Social Media DETOX, living with the internet
 Date: 2022-09-10 21:00
 Modified: 2022-09-11 12:05
 Category: Journal
-Tags: journal, personal
+Tags: personal
 Slug: social-media-detox
 Authors: chanwinyee
 Summary: Learning to live without the social media, then easing back in.

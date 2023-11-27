@@ -2,7 +2,7 @@ Title: San Francisco ZineFest 2022
 Date: 2022-09-05 10:00
 Modified: 2022-09-13 21:10
 Category: Journal
-Tags: journal, personal, meandering
+Tags: personal, photos
 Slug: sf-zinefest-2022
 Authors: chanwinyee
 Summary: Checking out the local zine artists and meeting a celebrity!

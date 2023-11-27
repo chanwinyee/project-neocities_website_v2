@@ -1,7 +1,7 @@
 title: Lavender Daisy Study
 date: 2022-09-23 06:00
 modified: 2022-09-24 14:00
-tags: art, novice-artist, watercolour, graphite
+tags: art, watercolour, graphite
 Category: sketchbook
 Slug: lavendar_daisy_study
 author: chanwinyee

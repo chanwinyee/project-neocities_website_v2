@@ -2,7 +2,7 @@ Title: My Trip to Hearst Castle
 Date: 2022-06-13 10:00
 Modified: 2022-09-13 21:15
 Category: Journal
-Tags: journal, personal, writing
+Tags: personal, writing
 Slug: my-trip-to-hearst-castle
 Authors: chanwinyee
 Summary: A strange encounter at the hotel cafeteria.

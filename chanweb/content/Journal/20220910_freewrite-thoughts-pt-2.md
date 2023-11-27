@@ -2,7 +2,7 @@ Title: Freewrite Thoughts Pt. 2: The Retro-tech Version
 Date: 2022-09-10 16:30
 Modified: 2022-09-13 20:43
 Category: Journal
-Tags: journal, meandering, personal
+Tags: personal
 Slug: freewrite-thoughts-pt-2
 Authors: chanwinyee
 Summary: The next step for my obsession with Astrohaus's Freewrite and not buying it.
