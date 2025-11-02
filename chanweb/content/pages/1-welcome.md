@@ -12,13 +12,11 @@ Status: hidden
 # Welcome to my personal and creative repository!
 
 - I am a **relentless hobbyist** most of the time
-- I am a cat-mom
-- I am a loving partner
+- I have a deep appreciation for vintage and analog things
 
-*Best of all, I am based out of beautiful Berkeley, CA.*
+*based in Berkeley, CA.*
 
 Here you will find a collection of my [thoughts](https://chanwinyee.neocities.org/category/journal.html), my [art](https://chanwinyee.neocities.org/pages/artwork.html), and some of my [works-in-progress](https://chanwinyee.neocities.org/category/sketchbook.html). 
 
-# Latest Updates (2023-11-26)
-- <img src="{static}/images/graphics/nekoline.gif">*New!* [Microblog]({static}/category/microblog.html) and microblog post
+# Latest Updates (2025-11-01)
 - <img src="{static}/images/graphics/nekoline.gif">*New!* [Changelog]({static}/category/changelog.html) post

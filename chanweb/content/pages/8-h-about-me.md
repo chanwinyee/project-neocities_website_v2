@@ -1,9 +1,10 @@
-Title: About Me
+Title: About Me (V1)
 Date: 2022-09-14 06:54
 Modified: 2022-09-15 07:11
 Category: pages
 Tags: pages, about-me
-Slug: about-me
+Slug: about-me_v1
+Status: hidden
 Authors: chanwinyee
 Summary: Long form of who I am and where I came from.
 

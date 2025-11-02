@@ -1,0 +1,78 @@
+Title: Watching
+Date: 2025-11-01 16:30
+Modified: 2025-11-01 19:44
+Category: pages
+Tags: watching
+Slug: watching
+Authors: chanwinyee
+Summary: Repository of the media I am watching
+
+## <u>Wes Anderson</u>
+<div class="scroll-box">
+<blockquote>[X] Bottle Rocket (1996)<br>
+[X] Rushmore (1998)<br>
+[ ] The Royal Tenenbaums (2001)<br>
+[X] The Life Aquatic with Steve Zissou (2004)<br>
+[ ] The Darjeeling Limited (2007)<br>
+[ ] Fantastic Mr. Fox (2009)<br>
+[ ] Moonrise Kingdom (2012)<br>
+[X] The Grand Budapest Hotel (2014)<br>
+[ ] Isle of Dogs (2018)<br>
+[ ] The French Dispatch (2021)<br>
+[X] Asteroid City (2023)<br>
+[X] The Wonderful Story of Henry Sugar and Three More (2024) <br>
+[X] The Phoenician Scheme<br></blockquote>
+</div>  
+
+## <u>Star Trek</u>
+<div class="scroll-box">
+<blockquote>[X] Star Trek: The Original Series (TOS) (1966–1969) <br>
+Star Trek: The Next Generation (TNG) (1987–1994)
+Star Trek: Deep Space Nine (DS9) (1993–1999)
+Star Trek: Voyager (VGR) (1995–2001)
+Star Trek: Enterprise (ENT) (2001–2005)
+Star Trek: Discovery (DSC) (2017–2024)
+Star Trek: Picard (PIC) (2020–2023)
+Star Trek: Strange New Worlds (SNW) (2022–present)</blockquote>
+</div> 
+
+## <u>Movie Franchises</u>
+Every so often, I decide to watch a series from first movie to last. 
+<div class="scroll-box">
+<H3><u>The Fast Saga</u></H3>    
+    <blockquote>[X] The Fast and the Furious (2001) <br>
+    [X] 2 Fast 2 Furious (2003) <br>
+    [X] The Fast and the Furious: Tokyo Drift (2006) <br>
+    [X] Fast & Furious (2009) <br>
+    [X] Fast Five (2011) <br>
+    [X] Fast & Furious 6 (2013) <br>
+    [X] Furious 7 (2015) <br>
+    [X] The Fate of the Furious (2017) <br>
+    [X] Fast & Furious Presents: Hobbs & Shaw (2019) <br>
+    [X] F9: The Fast Saga (2021) <br>
+    [X] Fast X (2023) </blockquote>
+
+<H3><u>Resident Evil</u></H3>  
+    <blockquote>[X] Resident Evil (2002) <br>
+    [X] Resident Evil: Apocalypse (2004) <br>
+    [X] Resident Evil: Extinction (2007) <br>
+    [X] Resident Evil: Afterlife (2010) <br>
+    [X] Resident Evil: Retribution (2012) <br>
+    [X] Resident Evil: The Final Chapter (2017)</blockquote>
+
+<H3><u>Jurassic Park</u></H3>
+    <blockquote>[x] Jurassic Park (1993) <br>
+    [x] The Lost World: Jurassic Park (1997) <br>
+    [x] Jurassic Park III (2001) <br>
+    [x] Jurassic World (2015) <br>
+    [x] Jurassic World: Fallen Kingdom (2018) <br>
+    [x] Jurassic World Dominion (2022)</blockquote>
+
+<H3><u>The Terminator</u></H3>
+    <blockquote>[x] The Terminator (1984) <br>
+    [x] Terminator 2: Judgment Day (1991) <br>
+    [x] Terminator 3: Rise of the Machines (2003) <br>
+    [x] Terminator Salvation (2009) <br>
+    [x] Terminator Genisys (2015) <br>
+    [x] Terminator: Dark Fate (2019) </blockquote>
+</div>
