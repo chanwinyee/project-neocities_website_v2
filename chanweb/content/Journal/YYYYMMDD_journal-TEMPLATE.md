@@ -4,7 +4,7 @@ Modified: 2023-08-12 16:45
 Category: Journal
 Tags: personal, journal, fitness, writing, projects, technical, art, watercolour, oilpaint, photos, audio, video, how_to, français, stephen_king, watching, reading, christmas_card
 Lang: en
-Slug: building-study-schedule
+Slug: journal_template
 Authors: chanwinyee
 status: hidden
 Summary: 

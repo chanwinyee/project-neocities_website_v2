@@ -20,4 +20,4 @@ Here you will find a collection of my [thoughts](https://chanwinyee.neocities.or
 
 # Latest Updates (2025-11-01)
 - <img src="{static}/images/graphics/nekoline.gif">*New!* [Changelog]({static}/category/changelog.html) post
-- <img src="{static}/images/graphics/nekoline.gif">*New!* [Changelog]({static}/category/microblog.html) post
+- <img src="{static}/images/graphics/nekoline.gif">*New!* [Microblog]({static}/category/microblog.html) post
