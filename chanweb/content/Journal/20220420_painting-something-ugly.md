@@ -3,6 +3,7 @@ Date: 2022-04-20 10:00
 Modified: 2022-09-13 21:23
 Category: Journal
 Tags: journal, art
+Lang: en
 Slug: painting-something-ugly
 Authors: chanwinyee
 Summary: Going retro with some watercolour how-to's.

@@ -2,6 +2,7 @@ Title: Running in the Berkeley Hills
 Date: 2021-07-17 10:00
 Modified: 2022-09-13 21:27
 Category: Journal
+Lang: en
 Tags: journal, fitness, writing
 Slug: running-in-the-berkeley-hills
 Authors: chanwinyee

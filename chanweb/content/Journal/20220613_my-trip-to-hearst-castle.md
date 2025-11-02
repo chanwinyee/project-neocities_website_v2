@@ -3,6 +3,7 @@ Date: 2022-06-13 10:00
 Modified: 2022-09-13 21:15
 Category: Journal
 Tags: personal, writing
+Lang: en
 Slug: my-trip-to-hearst-castle
 Authors: chanwinyee
 Summary: A strange encounter at the hotel cafeteria.

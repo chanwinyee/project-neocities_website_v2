@@ -2,7 +2,8 @@ Title: A Study in Two Mediums
 Date: 2022-01-02 10:00
 Modified: 2022-01-02 10:14
 Category: Journal
-Tags: art, watercolour, oilpaint
+Tags: art, watercolour, oilpaint, audio
+Lang: en
 Slug: a_study_in_two_mediums
 Authors: chanwinyee
 Summary: Going retro with some watercolour how-to's.

@@ -9,3 +9,5 @@ Summary: 2025-11-01 Changes
 
 - Created new pages for my media consumption (books and movies)
 - Took down Contact Me and About Me pages
+- Added some hidden templates
+- Added microblogs

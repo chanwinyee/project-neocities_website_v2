@@ -2,7 +2,8 @@ Title: Building a Website from Scratch
 Date: 2021-11-25 10:00
 Modified: 2021-11-25 10:14
 Category: Journal
-Tags: projects, technical
+Tags: projects, technical, audio
+Lang: en
 Slug: building-a-website-from-scratch
 Authors: chanwinyee
 Summary: My first website since the 90's. Welcome! 

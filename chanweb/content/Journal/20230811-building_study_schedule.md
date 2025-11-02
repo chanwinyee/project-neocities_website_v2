@@ -3,6 +3,7 @@ Date: 2023-08-11 17:00
 Modified: 2023-08-12 16:45
 Category: Journal
 Tags: how_to
+Lang: en
 Slug: building-study-schedule
 Authors: chanwinyee
 Summary: How to use the power of gSheet to make a semi-automated reading schedule.

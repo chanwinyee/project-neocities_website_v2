@@ -3,6 +3,7 @@ Date: 2022-05-21 10:00
 Modified: 2022-09-13 21:17
 Category: Journal
 Tags: personal
+Lang: en
 Slug: astrohaus-freewrite-or-nah
 Authors: chanwinyee
 Summary: The agonizing debate that has occupied my brain power for 2 years and counting! To buy, or not to buy this nod to retro tech?

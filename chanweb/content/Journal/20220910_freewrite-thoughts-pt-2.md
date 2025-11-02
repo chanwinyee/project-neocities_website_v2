@@ -3,6 +3,7 @@ Date: 2022-09-10 16:30
 Modified: 2022-09-13 20:43
 Category: Journal
 Tags: personal
+Lang: en
 Slug: freewrite-thoughts-pt-2
 Authors: chanwinyee
 Summary: The next step for my obsession with Astrohaus's Freewrite and not buying it.
