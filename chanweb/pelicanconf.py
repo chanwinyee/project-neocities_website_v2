@@ -1,5 +1,5 @@
 AUTHOR = 'Winyee'
-SITENAME = 'Winyee Art Page'
+SITENAME = "Winyee's Home Page"
 SITEURL = ''
 
 PATH = './content/'

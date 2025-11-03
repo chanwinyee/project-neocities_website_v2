@@ -18,6 +18,7 @@ Status: hidden
 
 Here you will find a collection of my [thoughts](https://chanwinyee.neocities.org/category/journal.html), my [art](https://chanwinyee.neocities.org/pages/artwork.html), and some of my [works-in-progress](https://chanwinyee.neocities.org/category/sketchbook.html). 
 
-# Latest Updates (2025-11-01)
+# Latest Updates (2025-11-02)
+- <img src="{static}/images/graphics/nekoline.gif">*New!* [Journal]({static}/category/journal.html) posts (many of them!)
 - <img src="{static}/images/graphics/nekoline.gif">*New!* [Changelog]({static}/category/changelog.html) post
 - <img src="{static}/images/graphics/nekoline.gif">*New!* [Microblog]({static}/category/microblog.html) post

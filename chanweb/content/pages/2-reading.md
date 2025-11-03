@@ -56,15 +56,7 @@ Summary: Repository of the books I've read
 
 <u>Under the Banner of Heaven</u> by John Krakauer <br>
 
-<u>Belonging</u> by Nora Krug <br>
-
-<u>Diaries of War</u> by Nora Krug <br>
-
-<u>On Tyranny</u> by Timothy Snyder/Nora Krug <br>
-
 <u>Devil in the White City</u> by Erik Larson <br>
-
-<u>In Limbo</u> by Deb. J. J. Lee <br>
 
 <u>Grilling Dahmer</u> by Robyn Maharaj <br>
 
@@ -84,8 +76,6 @@ Summary: Repository of the books I've read
 
 <u>Discontent</u> by Beatriz Serrano  <br>
 
-<u>Maus</u> by Art Spiegelman <br>
-
 <u>Cannery Row</u> by John Steinbeck <br>
 
 <u>Dark Water</u> by Koji Suzuki <br>
@@ -96,17 +86,11 @@ Summary: Repository of the books I've read
 
 <u>Ink, Blood, Sister, Scribe</u> by Emma Torsz <br>
 
-<u>Alone in Space</u> by Tillie Walden <br>
-
-<u>On a Sunbeam</u> by Tillie Walden <br>
-
-<u>Spinning</u> by Tillie Walden <br>
-
 <u>A Short Walk through a Wide World</u> by Douglas Westerbeke <br>
 
 <u>Days at the Morisaki Bookstore</u> by Satoshi Yagisawa <br>
 
-<u>More Days at the Morisaki Bookstore</u> by Satosi Yagisawa <br>
+<u>More Days at the Morisaki Bookstore</u> by Satoshi Yagisawa <br>
 
 <u>Crying in the H Mart</u> by Michelle Zauner <br>
 </div>
@@ -148,7 +132,23 @@ Summary: Repository of the books I've read
 
 <u>Dear Sophie, Love Sophie</u> by Sophie Lucido Johnsonn<br>
 
+<u>Belonging</u> by Nora Krug <br>
+
+<u>Diaries of War</u> by Nora Krug <br>
+
+<u>On Tyranny</u> by Timothy Snyder/Nora Krug <br>
+
+<u>In Limbo</u> by Deb. J. J. Lee <br>
+
 <u>Ice Cream Man Volumes 1-10</u> by W. Maxwell Prince<br>
+
+<u>Maus</u> by Art Spiegelman <br>
+
+<u>Alone in Space</u> by Tillie Walden <br>
+
+<u>On a Sunbeam</u> by Tillie Walden <br>
+
+<u>Spinning</u> by Tillie Walden <br>
 
 <u>Building Stories</u> by Chris Ware<br>
 
